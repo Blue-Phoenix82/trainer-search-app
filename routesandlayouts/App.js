@@ -19,6 +19,7 @@ const styles = StyleSheet.create({
   },
 });
 import React from "react";
+import profile from "./profile";
 
 
 function App() {
