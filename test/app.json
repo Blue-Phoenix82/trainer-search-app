@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tabview",
-    "slug": "tabview",
+    "name": "test",
+    "slug": "test",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,14 +22,13 @@
       },
       "edgeToEdgeEnabled": true
     },
-    
-  "web": {
-    "bundler": "metro"
-  }
-}
-,
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "blunder": "metro"
+    },
+    "scheme": "test",
     "plugins": [
       "expo-router"
     ]
   }
-
+}
